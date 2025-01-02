@@ -4,7 +4,7 @@ bases:
 - ../../base
 
 resources:
-- route.yaml  
+- route-mng.yaml  
 
 namePrefix: emea-
 
